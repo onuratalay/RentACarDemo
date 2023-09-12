@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACarDemo", "RentACarDemo\RentACarDemo.csproj", "{9268F4CB-534B-4708-A507-12C57409199C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "db", "db", "{735A3FFF-3808-49CE-9C22-FC692949834E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\db.md = ..\..\..\db.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9268F4CB-534B-4708-A507-12C57409199C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9268F4CB-534B-4708-A507-12C57409199C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9268F4CB-534B-4708-A507-12C57409199C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9268F4CB-534B-4708-A507-12C57409199C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49F6CEC6-22BE-4BC8-A5E6-1913BA1B008E}
+	EndGlobalSection
+EndGlobal
